@@ -16,8 +16,8 @@ TERM = "xterm-256color"
 
 #decorations = "Transparent"
 
-opacity = 0.8
-blur = true
+opacity = 1.0
+#blur = true
 
 option_as_alt = "Both"
 
