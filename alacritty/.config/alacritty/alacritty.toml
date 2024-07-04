@@ -4,8 +4,8 @@ import = [
 
 live_config_reload = true
 
-#[shell]
-#program="/usr/local/bin/tmux"
+[shell]
+program="/bin/zsh"
 
 [env]
 TERM = "xterm-256color"
